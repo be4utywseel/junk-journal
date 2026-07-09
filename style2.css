@@ -30,12 +30,21 @@ body {
     transition: 0.3s;
     box-shadow: 0 6px rgb(75, 12, 12);
 }
-.title{
+p {
     color: var(--bungee-color);
-    font-size: 4rem;
+    font-size: 3rem;
     width: 1000px !important;
-    margin-top: 70px;
-    margin-left: 4rem;
+    margin-top: 40px;
+    margin-left: 1rem;
     font-family: 'Pinyon Script';
+}   
+.main-page {
+    width: 200px;
+    margin-left: 570px;
+    margin-top: -180px;
+    transform: scaleX(3);
+    border-radius: 30px;
+    border-style: dotted;
+    border-color: var(--bungee-color);
 }
- 
+
