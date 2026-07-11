@@ -2,7 +2,7 @@
 <p><i>I've created a website where you can junk journal and be creative without the restrictions of lack of materials or if you are in an artist bloc.</i></p>
 
 <h2><b>Here is a screenshot of my main page </b></h2>
-<img src="C:\Users\lenovo\Pictures\Screenshots\main page ss.png" alt="screenshot of main page"></img>
+<img src="IMG_2047.PNG" alt="screenshot of main page"></img>
 
 <h2><b>Tech Stack!</b><h2>
 <p><i>the languages I used were: </i></p>
