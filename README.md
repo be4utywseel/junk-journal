@@ -1,7 +1,7 @@
 <h1><b>Junk Journaling </b></h1>
 <p><i>I've created a website where you can junk journal and be creative without the restrictions of lack of materials or if you are in an artist bloc.</i></p>
 <h2><b>Here is a screenshot of my main page </b></h2>
-![screenshot of my main page](IMG_2047.PNG)
+<img src="IMG_2047.PNG" alt="screenshot of my main page">
 
 
 <h2><b>Tech Stack!</b><h2>
